@@ -6,3 +6,9 @@ public class task {
     //this line added from GitHub,see in intellij
                        
 }
+  
+  public String hello(){
+return "Hello from GitHub";
+  }
+  
+}
