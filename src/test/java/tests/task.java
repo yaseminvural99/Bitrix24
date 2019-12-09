@@ -10,5 +10,13 @@ public class task {
     public void hi(){
         System.out.println("Hi from intelliJ");
     }
-}
+
 //git pull and click anywhere in intellij you will see
+
+  
+  public String hello(){
+return "Hello from GitHub";
+  }
+  
+}
+
