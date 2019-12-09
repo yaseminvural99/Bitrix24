@@ -11,4 +11,10 @@ public class task {
 return "Hello from GitHub";
   }
   
+  public void group10(){
+    System.out.println("Hello from GitHub");  
+    
+  }
+  
+  
 }
